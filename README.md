@@ -1,7 +1,7 @@
 # Socket programming example
 
 
-Referenced: node.js tutorial.  https://socket.io/get-started/chat
+Referenced: socket.io tutorial.  https://socket.io/get-started/chat
 
 If you want to run this example? 
 1. Decompress to your local system.
